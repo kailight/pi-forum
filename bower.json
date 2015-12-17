@@ -1,0 +1,25 @@
+{
+  "name": "otdarom",
+  "homepage": "https://github.com/kailight/otdarom",
+  "authors": [
+    "Kai Light <email@kailight.ru>"
+  ],
+  "description": "w/e",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8",
+    "bootstrap": "~3.3.6"
+  }
+}
